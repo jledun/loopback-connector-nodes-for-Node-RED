@@ -23,7 +23,7 @@ npm install git+https://github.com/sachinhub/loopback-connector-nodes-for-Node-R
 
 or
 
-npm install git+git@github.com:EdgeVerve/loopback-connector-nodes-for-Node-RED.git
+npm install git+git@github.com:sachinhub/loopback-connector-nodes-for-Node-RED.git
 
 ```
 ### Start Node-RED Server from loopback application
