@@ -19,7 +19,7 @@ Node-RED server. Refer to installation section for more details.
 
 ### Install this node module 
 ```
-npm install git+https://github.com/EdgeVerve/loopback-connector-nodes-for-Node-RED.git 
+npm install git+https://github.com/sachinhub/loopback-connector-nodes-for-Node-RED.git 
 
 or
 
