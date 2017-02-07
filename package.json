@@ -40,6 +40,6 @@
   },
   "dependencies": {
     "express": "^4.13.4",
-    "node-red": "^0.15.2"
+    "node-red": "^0.16.2"
   }
 }
